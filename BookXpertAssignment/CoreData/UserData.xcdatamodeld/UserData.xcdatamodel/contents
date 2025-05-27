@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="23788" systemVersion="24F74" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="AppUser" representedClassName="AppUser" syncable="YES" codeGenerationType="class">
+        <attribute name="email" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="uid" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="ProductListData" representedClassName="ProductListData" syncable="YES" codeGenerationType="class">
+        <attribute name="capacity" optional="YES" attributeType="String"/>
+        <attribute name="capacity2" optional="YES" attributeType="String"/>
+        <attribute name="capacityGB" optional="YES" attributeType="String"/>
+        <attribute name="caseSize" optional="YES" attributeType="String"/>
+        <attribute name="color" optional="YES" attributeType="String"/>
+        <attribute name="color2" optional="YES" attributeType="String"/>
+        <attribute name="cpuModel" optional="YES" attributeType="String"/>
+        <attribute name="descriptionTxt" optional="YES" attributeType="String"/>
+        <attribute name="generation" optional="YES" attributeType="String"/>
+        <attribute name="generation2" optional="YES" attributeType="String"/>
+        <attribute name="hardDiskSize" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="price" optional="YES" attributeType="String"/>
+        <attribute name="price2" optional="YES" attributeType="String"/>
+        <attribute name="screenSize" optional="YES" attributeType="String"/>
+        <attribute name="strapColour" optional="YES" attributeType="String"/>
+        <attribute name="year" optional="YES" attributeType="String"/>
+    </entity>
+</model>
