@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5F25AE6E301BB6FA005BC774 /* BookXpertAssignmentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F25AE6D301BB6FA005BC774 /* BookXpertAssignmentTests.swift */; };
 		5F6143552DE2083800D03729 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F61434B2DE2083800D03729 /* AppDelegate.swift */; };
 		5F6143562DE2083800D03729 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F6143522DE2083800D03729 /* SceneDelegate.swift */; };
 		5F6143572DE2083800D03729 /* SignInVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F6143532DE2083800D03729 /* SignInVC.swift */; };
@@ -51,6 +52,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5F25AE6D301BB6FA005BC774 /* BookXpertAssignmentTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookXpertAssignmentTests.swift; sourceTree = "<group>"; };
 		5F6143332DE2083200D03729 /* BookXpertAssignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BookXpertAssignment.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F61434B2DE2083800D03729 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5F61434C2DE2083800D03729 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -133,6 +135,7 @@
 				5F61434C2DE2083800D03729 /* Assets.xcassets */,
 				5F61434D2DE2083800D03729 /* Info.plist */,
 				5F6143932DE20EF600D03729 /* GoogleService-Info.plist */,
+				5F25AE6D301BB6FA005BC774 /* BookXpertAssignmentTests.swift */,
 			);
 			path = BookXpertAssignment;
 			sourceTree = "<group>";
@@ -383,6 +386,7 @@
 				5FE751B42DE32AB000CBB00B /* DataModel.swift in Sources */,
 				5F6143552DE2083800D03729 /* AppDelegate.swift in Sources */,
 				5FE751BE2DE4BB9B00CBB00B /* ProductTVCell.swift in Sources */,
+				5F25AE6E301BB6FA005BC774 /* BookXpertAssignmentTests.swift in Sources */,
 				5F6143AC2DE22ED200D03729 /* HomeVC.swift in Sources */,
 				5F6143562DE2083800D03729 /* SceneDelegate.swift in Sources */,
 				5F6143AF2DE2303A00D03729 /* PDFVC.swift in Sources */,
