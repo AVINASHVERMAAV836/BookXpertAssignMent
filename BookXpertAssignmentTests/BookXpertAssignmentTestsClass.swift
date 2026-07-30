@@ -14,4 +14,8 @@ final class BookXpertAssignmentTestsClass: XCTestCase {
     func testAddition() {
         XCTAssertEqual(2 + 2, 4)
     }
+    
+    func testAutoBuild() {
+        XCTAttachment(string: "Successfully Auto build Done")
+    }
 }
